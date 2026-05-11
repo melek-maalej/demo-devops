@@ -1,5 +1,0 @@
-com\example\demo_devops\service\imp\UserServiceTest.class
-com\example\demo_devops\steps\UserSteps.class
-com\example\demo_devops\steps\CucumberSpringConfiguration.class
-com\example\demo_devops\DemoDevopsApplicationTests.class
-com\example\demo_devops\runner\CucumberRunnerTest.class

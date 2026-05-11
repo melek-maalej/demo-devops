@@ -1,7 +1,0 @@
-com\example\demo_devops\repository\UserRepository.class
-com\example\demo_devops\DemoDevopsApplication.class
-com\example\demo_devops\controller\UserController.class
-com\example\demo_devops\service\imp\UserService.class
-com\example\demo_devops\entity\User.class
-com\example\demo_devops\service\IUserService.class
-com\example\demo_devops\demo\ExempleAvecBugs.class
